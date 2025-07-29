@@ -1,4 +1,6 @@
 # Budget_App
+Python Project (problem provided by freeCodeCamp.org - from Scientific Computing with Python course)
+
 This is a simple Python project that helps manage budgets for different categories like Food, Clothing, or Entertainment. Each category can track deposits, withdrawals, transfers, and balances. The project also includes a function to create a spending chart, which shows the percentage of money spent in each category.
 
 **Features**
